@@ -1,12 +1,13 @@
 {
   "name": "zu-esp",
   "version": "1.0.0",
-  "description": "",
-  "main": ".eslintrc.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "description": "ESLint, Prettier",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Acmu/zu-esp.git"
   },
-  "keywords": [],
-  "author": "",
+  "scripts": {},
+  "keywords": ["eslint", "prettier"],
+  "author": "Mingyuan Zheng @Acmu",
   "license": "ISC"
 }
